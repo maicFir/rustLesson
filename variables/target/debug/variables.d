@@ -1,1 +1,1 @@
-/Users/maic/wmc/lessonNote/rust/variables/target/debug/variables: /Users/maic/wmc/lessonNote/rust/variables/src/main.rs
+/Users/maic/wmc/rustLessonNote/variables/target/debug/variables: /Users/maic/wmc/rustLessonNote/variables/src/main.rs

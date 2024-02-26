@@ -1,1 +1,1 @@
-/Users/maic/wmc/lessonNote/rust/print/target/debug/print: /Users/maic/wmc/lessonNote/rust/print/src/main.rs
+/Users/maic/wmc/rustLessonNote/print/target/debug/print: /Users/maic/wmc/rustLessonNote/print/src/main.rs
