@@ -1,7 +1,6 @@
 mod my;
-
+mod test;
 fn main() {
-    println!("Hello, world!");
-    let hello = my::indirect_access();
-    println!("{}", hello);
+    my::my_function(); // 调用 my 模块的 my_function 函数
+    test::reduce();
 }
