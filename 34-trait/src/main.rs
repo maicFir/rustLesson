@@ -9,6 +9,7 @@ impl Drop for ToDrop {
         println!("ToDrop is being dropped");
     }
 }
+// struct Person
 struct Person {
     name: String,
 }
@@ -25,4 +26,5 @@ fn main() {
     };
     person.greet();
     let _x = ToDrop;
+    // drop(_x);
 }
